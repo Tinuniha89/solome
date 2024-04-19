@@ -1,4 +1,4 @@
-package linearstructure;
+package line;
 public class CircularQueue {
     private int[] queue;
     private int front;
